@@ -1,0 +1,13 @@
+{
+  "name": "dev-workflow-worker",
+  "version": "1.0.0",
+  "description": "Background worker for dev workflow app",
+  "main": "worker.js",
+  "scripts": {
+    "start": "node worker.js"
+  },
+  "dependencies": {},
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
